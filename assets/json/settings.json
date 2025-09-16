@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "title": "Currency",
+        "subtitle": "INR",
+        "page_slug": "settings-currency"
+    },
+    {
+        "id": 2,
+        "title": "Theme",
+        "subtitle": "Dark",
+        "page_slug": "settings-theme"
+    },
+    {
+        "id": 3,
+        "title": "Security",
+        "subtitle": "Fingerprint",
+        "page_slug": "settings-security"
+    },
+    {
+        "id": 4,
+        "title": "About",
+        "subtitle": "",
+        "page_slug": "settings-about"
+    },
+    {
+        "id": 5,
+        "title": "Help",
+        "subtitle": "",
+        "page_slug": "settings-help"
+    }
+]

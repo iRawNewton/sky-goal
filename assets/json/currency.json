@@ -1,0 +1,12 @@
+[
+  { "id": 1, "currency": "India (INR)" },
+  { "id": 2, "currency": "United States (USD)" },
+  { "id": 3, "currency": "United Kingdom (GBP)" },
+  { "id": 4, "currency": "European Union (EUR)" },
+  { "id": 5, "currency": "Japan (JPY)" },
+  { "id": 6, "currency": "Canada (CAD)" },
+  { "id": 7, "currency": "Australia (AUD)" },
+  { "id": 8, "currency": "Switzerland (CHF)" },
+  { "id": 9, "currency": "China (CNY)" },
+  { "id": 10, "currency": "Sweden (SEK)" }
+]
